@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22943752/README.md)
 # 🚀 Interactive Portfolio - Divyendu Maurya
 
 A modern, interactive portfolio website built with cutting-edge web technologies, featuring 3D animations, an interactive terminal, and immersive user experiences.

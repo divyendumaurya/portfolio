@@ -6,7 +6,7 @@ import { Link } from 'react-scroll';
 
 const Home = () => {
   return (
-    <div  name='home' className=' h-screen w-full  bg-gradient-to-b from-black via-black to bg-gray-800 '>
+    <div  name='home' className='pt-[90px] h-screen w-full  bg-gradient-to-b from-black via-black to bg-gray-800 '>
         
 <div className=' max-w-screen-lg h-full mx-auto flex flex-col justify-center items-center px-4 md:flex-row  '>
 <div className='flex flex-col  justify-center h-full'>
